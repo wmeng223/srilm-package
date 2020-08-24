@@ -1,9 +1,9 @@
-# srilm-pkg
+# srilm installer package
 
-save srilm package here
+Save srilm installer package here. (download from official website)
 
 # VERSION
 
-- srilm 1.7.3
+- srilm 1.7.3 (latest)
 
 - srilm 1.7.2
